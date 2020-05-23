@@ -1,0 +1,1 @@
+/uploaded/にcsvファイルがuploadされ、pythonで読み込み、phpの関数で読み込んだcsvファイルを消す
