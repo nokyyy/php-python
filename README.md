@@ -2,7 +2,7 @@
  
 # Features
  
-Djangoやflaskを使わずにブラウザからサーバー経由でpythonを起動させ、計算させることができた。
+Djangoやflaskを使わずにブラウザからサーバー経由(phpを用いて)でpythonを起動させ、計算させることができた。
  
 # Requirement
  
